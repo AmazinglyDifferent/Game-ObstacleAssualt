@@ -10,5 +10,5 @@ Actors inside the game
 2. Platform
 3. Cubes
 4. Treasure room like structure
-5. 
+ 
 <img width="875" alt="image" src="https://github.com/user-attachments/assets/ba9a065f-66da-4aad-ad72-dc36a7552ff3">
