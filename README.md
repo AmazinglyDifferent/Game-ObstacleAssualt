@@ -3,7 +3,7 @@ A Game similar to Fall Guys, built using Unreal with the help of C++ and Unreal'
 Tech Stack - Unreal, C++, BluePrint
 Concept - OOPS
 
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/1ab9def2-0054-4d81-8755-cd2347ef92b3">
+<img width="489" alt="image" src="https://github.com/user-attachments/assets/62bfb5aa-17d6-472f-93fd-70f5f5edfafd">
 
 Actors inside the game
 1. Character
